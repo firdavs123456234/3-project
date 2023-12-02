@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  padding: 31px;
+  padding-left: 150px;
+  display: flex;
+  align-items: center;
+}
+nav {
+  margin-left: 35px;
+  display: flex;
+  align-items: center;
+  gap: 41px;
+  margin-right: 550px;
+}
+nav a {
+  color: var(--BLACK, #150c01);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+.home {
+  color: #dc780b;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+}
+header button{
+    padding: 13px 30px;
+    color: #FFF;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+border-radius: 5px;
+background: var(--PRIMARY, #DC780B);
+border: none;
+}
