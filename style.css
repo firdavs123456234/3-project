@@ -33,6 +33,7 @@ nav a {
   font-style: normal;
   font-weight: 500;
 }
+<<<<<<< HEAD
 header button {
   padding: 13px 30px;
   color: #fff;
@@ -140,3 +141,69 @@ header button {
 .sisi {
   width: 250px;
 }
+=======
+header button{
+    padding: 13px 30px;
+    color: #FFF;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+border-radius: 5px;
+background: var(--PRIMARY, #DC780B);
+border: none;
+}
+.section-1{
+  padding-left: 150px;
+}
+.boss-1{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.left-1 h1{
+color: var(--BLACK, #150C01);
+font-size: 48.83px;
+font-style: normal;
+font-weight: 700;
+width: 555px;
+height: 161px;
+margin-bottom: 40px;
+}
+.left-1 p{
+  width: 555px;
+height: 43px;
+flex-shrink: 0;
+color: var(--BLACK, #150C01);
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+margin-bottom: 50px;
+}
+.but-1{
+  display: flex;
+  gap: 30px;
+}
+.but-2{
+  color: #FFF;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+border-radius: 5px;
+background: #DC780B;
+padding: 21px 40px;
+border: none;
+}
+.but-3{ 
+  color: #DC780B;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding: 21px 40px;
+border-color:rgb(202, 199, 199) ;
+border-radius: 5px;
+background-color: transparent;
+}
+>>>>>>> 9a56aae6330c52c4b5d3936cc2b57cc2bce2d93b
